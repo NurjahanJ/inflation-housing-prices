@@ -1,4 +1,4 @@
-# inflation-housing-pricesInflation and Housing Prices in the U.S. (2014-2024)
+Inflation and Housing Prices in the U.S. (2014-2024)
 
 Essential Question
 
