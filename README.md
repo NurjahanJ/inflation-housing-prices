@@ -12,13 +12,13 @@ To analyze the relationship between inflation and housing prices, I am using the
 
 * [Dataset Link](https://www.fhfa.gov/data/hpi/datasets?utm_source=chatgpt.com)
 
-  *Measures changes in housing prices across the U.S., helping us track how home values have evolved over time.
+  * Measures changes in housing prices across the U.S., helping us track how home values have evolved over time.
 
 2. U.S. Bureau of Labor Statistics (BLS) Consumer Price Index (CPI-U)
 
 * [West Region CPI Data](https://www.bls.gov/regions/west/factsheet/consumer-price-index-data-tables.htm?utm_source=chatgpt.com)
 
-  *Provides inflation data for different metropolitan areas, showing how the cost of living has changed.
+  * Provides inflation data for different metropolitan areas, showing how the cost of living has changed.
 
 * City-specific CPI datasets:
   * [Los Angeles-Long Beach-Anaheim, CA](https://data.bls.gov/timeseries/CUURS49ASA0&output_view=pct_12mths#)
