@@ -55,7 +55,7 @@ To effectively communicate insights from the data, we plan to create the followi
 
 3. 🌍 Heat Map: Cities Where Housing Prices Increased Most
   
-   *Highlights the metropolitan areas that experienced the largest home price increases.
+   * Highlights the metropolitan areas that experienced the largest home price increases.
 
 6. 📊 Bar Chart: Comparing Inflation & House Prices by City
    
