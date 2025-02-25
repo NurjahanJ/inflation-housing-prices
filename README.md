@@ -2,7 +2,7 @@
 
 ## Essential Question
 
-How has inflation impacted housing market in different U.S. cities over the past decade?
+How has inflation impacted housing prices in different U.S. cities over the past decade?
 
 ## Data Sources
 
